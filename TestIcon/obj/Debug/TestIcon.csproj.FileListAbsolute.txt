@@ -1,0 +1,6 @@
+c:\users\christian\documents\visual studio 2017\Projects\TestIcon\TestIcon\obj\Debug\TestIcon.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\bin\Debug\JumboIcon.exe.config
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\bin\Debug\JumboIcon.exe
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\bin\Debug\JumboIcon.pdb
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\obj\Debug\JumboIcon.exe
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\obj\Debug\JumboIcon.pdb

@@ -1,0 +1,9 @@
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\obj\Release\TestIcon.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\bin\Release\JumboIcon.pdb
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\obj\Release\JumboIcon.pdb
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\bin\Release\JumboIcon.exe.config
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\bin\Release\JumboIcon.exe
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\TestIcon\TestIcon\obj\Release\JumboIcon.exe
+C:\Users\Christian\Documents\Desktop Overlay\Assets\StreamingAssets\JumboIcon.exe.config
+C:\Users\Christian\Documents\Desktop Overlay\Assets\StreamingAssets\JumboIcon.exe
+C:\Users\Christian\Documents\Desktop Overlay\Assets\StreamingAssets\JumboIcon.pdb
